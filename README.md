@@ -27,7 +27,7 @@ El proyecto esta conformado por los siguientes features:
       b.Arbol de decision
       c.Random forest
 
-5- Probando con otra transformacion de datos
++ Probando con otra transformacion de datos
 
       a.Lemmantization
       b.Implementacion del mejor modelo (Punto 4)
